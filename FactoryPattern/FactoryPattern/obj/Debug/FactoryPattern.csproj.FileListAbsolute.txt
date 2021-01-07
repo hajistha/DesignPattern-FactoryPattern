@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+C:\Users\DELL\source\repos\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.exe
+C:\Users\DELL\source\repos\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.pdb
+C:\Users\DELL\source\repos\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.exe
+C:\Users\DELL\source\repos\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.pdb
